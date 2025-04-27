@@ -38,6 +38,10 @@ Start the server
 - Tailwind CSS - Styling
 - Fuse.js - Fuzzy search capabilities
 
+## Contact
+
+Email: info@equalab.uk
+
 ## Authors
 
 - [@thomasjbell](https://www.github.com/thomasjbell)
